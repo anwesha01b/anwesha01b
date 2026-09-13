@@ -17,7 +17,7 @@
 ──────────────────────────────────────────────────────
 ```
 
-### // currently
+### currently
 
 - 🎓 Studying **B.E in CSBS** at **BMS College of Engineering**
 - 🌱 Learning **DSA** and **Core CS Fundamentals** right now
@@ -25,7 +25,7 @@
 - 🎯 Goal for this year: **Land an internship**
 - 💬 Happy to talk about **problem solving and other tech**
 
-### // stack
+### stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-### // stats
+### stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=anwesha01b&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" />
@@ -58,12 +58,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwesha01b&theme=algolia&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
-### // contributions
+### contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/anwesha01b/anwesha01b/output/pacman.svg" alt="Pac-Man contribution graph" />
 </div>
-### // currently learning
+### currently learning
 
 <p>
   <img src="https://img.shields.io/badge/-Data%20Structures-39D353?style=flat-square" />
@@ -71,11 +71,11 @@
   <img src="https://img.shields.io/badge/-Core%20CS%20Fundamentals-39D353?style=flat-square" />
 </p>
 
-### // off the keyboard
+### off the keyboard
 
 🎵 Music · ✈️ Traveling
 
-### // find me
+### find me
 
 <p>
   <a href="https://linkedin.com/in/anwesha-bhagat-61288b308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
